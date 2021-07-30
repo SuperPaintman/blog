@@ -4,7 +4,7 @@
 
 #### License
 
-[CC BY SA 4.0](./LICENSE)
+[CC BY-SA 4.0](./LICENSE)
 
 ---
 
